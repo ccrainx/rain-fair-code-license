@@ -1,0 +1,57 @@
+Rain Fair Code License v1.1.2 (DRAFT – General Use)
+1. Purpose
+The Rain Fair Code License is designed to promote fair, ethical, and transparent use of software. It allows for use in both open and closed-source projects, while protecting the rights of developers and the values of human dignity.
+
+2. Permissions
+You are allowed to:
+- Use, modify, and distribute this code, including in commercial and closed-source applications
+- Use the code in public or private projects
+- Patent your own inventions, as long as you comply with this license
+
+3. Conditions
+You must:
+
+Give clear attribution to the original author.
+Include the line:
+- “Made using source code from [Original Author’s Name or Project Name].”
+- Link to the original code in your documentation or about page.
+- Clearly state modifications in closed-source projects:
+- Summarize added, changed, or removed features
+- Note if any files were added or deleted
+
+This attribution must appear in publicly visible documentation, such as a README, 'About' section, or software credits.
+This does not require open-sourcing your code
+
+Not claim endorsement:
+You may not imply that the original author supports, approves, or is affiliated with your project, unless explicitly stated.
+
+4. Ethical Restrictions
+You may not use this software for:
+- Military purposes or weapons development
+- Mass surveillance, tracking, or behavioral profiling
+- Intelligence or law enforcement operations that violate civil rights
+- Any activity that intentionally causes harm to individuals or communities
+- Violation of this section automatically terminates your rights under this license.
+
+5. Termination  
+Your rights under this license terminate automatically if you violate its terms, including Sections 3 or 4.  
+Upon termination, you must immediately stop using, distributing, or modifying the software.  
+Continued use after termination is considered copyright infringement and may be subject to legal enforcement.  
+Use of the software in violation of this license may also constitute copyright infringement under applicable law.
+
+6. Patent Grant & Retaliation
+By using this software, you receive a royalty-free license to any patents held by the original author that are essential to using the code.
+
+However, if you initiate a patent lawsuit against anyone for using this software or derivative works, your rights under this license are revoked.
+
+7. Warranty Disclaimer
+This software is provided “as is”, without warranty of any kind.
+The original author is not liable for any damages, losses, or misuse.
+This license does not grant permission to use the trade names, trademarks, service marks, or logos of the original author, except as required for attribution.  
+Any such use requires separate, explicit permission.
+
+8. Using this License
+This license may be reused by other developers for their own projects, provided that all references to the original author are updated accordingly.
+To do so, replace [Original Author’s Name or Project Name] with your own.
+
+This is the Rain Fair Code License — for developers who believe software should empower, not exploit.
